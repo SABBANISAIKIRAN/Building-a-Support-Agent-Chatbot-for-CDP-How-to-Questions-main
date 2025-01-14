@@ -42,7 +42,7 @@ A chatbot that provides step-by-step guidance for "how-to" questions related to 
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/cdp-chatbot.git
+git clone https://github.com/SABBANISAIKIRAN/Building-a-Support-Agent-Chatbot-for-CDP-How-to-Questions-main.git
 cd cdp-chatbot
 ```
 
